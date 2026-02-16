@@ -1,21 +1,13 @@
 🎮 Tic Tac Toe Web Application
 
+A responsive and interactive Tic Tac Toe game built using core web technologies.
+This project was developed as part of the Prodigy InfoTech Web Development Internship (Task 1).
 
-
-
-
-
-
-
-
-
-A responsive and interactive Tic Tac Toe game built using core web technologies. This project was developed as part of the Prodigy InfoTech Web Development Internship (Task 1).
-
-The application provides smooth gameplay, automatic result detection, and a clean modern interface that works across devices.
+The application delivers smooth gameplay, automatic result detection, and a modern UI that works across devices.
 
 📌 Project Overview
 
-This browser-based Tic Tac Toe game allows two players to compete on a 3×3 grid.
+This browser-based Tic Tac Toe game allows two players to compete on a 3×3 grid with real-time game updates.
 
 The application:
 
@@ -31,8 +23,7 @@ Provides reset and new game functionality
 
 🚀 Live Demo
 
-
-
+👉 Add your deployed project link here
 
 ✨ Features
 
@@ -46,13 +37,10 @@ Provides reset and new game functionality
 ✅ Smooth user experience
 
 🛠️ Technologies Used
-
-HTML5 — Structure
-
-CSS3 — Styling & layout
-
-JavaScript (ES6) — Game logic
-
+Technology	Purpose
+HTML5	Structure of the application
+CSS3	Styling and layout
+JavaScript (ES6)	Game logic and interactivity
 📂 Project Structure
 tic-tac-toe/
 │
@@ -63,45 +51,46 @@ tic-tac-toe/
 └── README.md
 
 ▶️ How to Run Locally
+Method 1 — Open Directly
 
 Download or clone the repository
 
 Open the project folder
 
-Open index.html in your browser
+Double-click index.html
 
-OR
+Method 2 — Using Live Server (Recommended)
 
-Use Live Server in VS Code:
-Right click → Open with Live Server
+Open project in VS Code
+
+Right click index.html
+
+Click Open with Live Server
 
 🎯 Game Rules
 
 Player X starts first
 
-Players alternate turns
+Players take turns selecting empty cells
 
-First to align 3 marks wins
+First player to align three marks wins
 
-If all cells fill without a winner → Draw
+If all cells fill with no winner → Draw
 
 🔮 Future Improvements
 
-✨ Play vs Computer (AI)
-✨ Scoreboard system
+✨ Play vs Computer (AI opponent)
+✨ Scoreboard tracking system
 ✨ Sound effects
 ✨ Winning animation
-✨ Mobile-first UI enhancements
+✨ Mobile-optimized UI
 
 👨‍💻 Author
 
-vaishnav kanade
+Vaishnav Kanade
 
-Project Repository → 
-
+Project Repository → Add your GitHub repo link here
 Platform → GitHub
-
 📄 License
 
 This project is open source and free to use for learning purposes.
-
