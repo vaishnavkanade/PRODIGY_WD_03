@@ -44,10 +44,15 @@ JavaScript (ES6)	Game logic and interactivity
 📂 Project Structure
 tic-tac-toe/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── screenshots/
+
 └── README.md
 
 ▶️ How to Run Locally
@@ -89,8 +94,8 @@ If all cells fill with no winner → Draw
 
 Vaishnav Kanade
 
-Project Repository → Add your GitHub repo link here
-Platform → GitHub
+Project Repository → 
+
 📄 License
 
 This project is open source and free to use for learning purposes.
