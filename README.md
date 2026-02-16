@@ -23,8 +23,7 @@ Provides reset and new game functionality
 
 🚀 Live Demo
 
-👉 Add your deployed project link here
-
+https://vaishnavkanade.github.io/PRODIGY_WD_03/
 ✨ Features
 
 ✅ Interactive 3×3 grid
