@@ -93,7 +93,7 @@ If all cells fill with no winner → Draw
 
 Vaishnav Kanade
 
-Project Repository → 
+Project Repository → https://github.com/vaishnavkanade/PRODIGY_WD_03
 
 📄 License
 
